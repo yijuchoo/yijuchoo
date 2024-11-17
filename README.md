@@ -1,7 +1,9 @@
 # 💫 About Me:
-<ul><li>🧑🏻‍💻Full Stack Developer with a background in UI/UX Design 🎨 and a certification in Full Stack Java Development from NTUC LearningHub. Currently advancing my expertise through an intensive Java Full Stack Developer course 🎓, with a focus on modern web technologies and practical project work. Passionate about combining design creativity with technical expertise to build innovative, user-centric web applications. Eager to contribute to dynamic development teams and deliver impactful solutions while continuing my professional growth.</li>
-<li>🥷 &nbsp;&nbsp;My skillsets are: HTML, CSS, JavaScript, ReactJs, MySQL, Java, and Spring Boot.</li>
-<li>🪛 &nbsp;&nbsp;My go-to tools are: VS Code, MySQL Workbench, and Postman.</li>
+<ul><li>Full Stack Developer 🧑🏻‍💻 with a background in UI/UX Design 🎨 and a certification in Full Stack Java Development from NTUC LearningHub.</li>
+  <li>Currently advancing my expertise through an intensive Java Full Stack Developer course 🎓, with a focus on modern web technologies and practical project work.</li>
+  <li>Passionate about combining design creativity with technical expertise to build innovative, user-centric web applications. Eager to contribute to dynamic development teams and deliver impactful solutions while continuing my professional growth.</li>
+<li>🥷 &nbsp;&nbsp;&nbsp;&nbsp;My skillsets are: HTML, CSS, JavaScript, ReactJs, MySQL, Java, and Spring Boot.</li>
+<li>🪛 &nbsp;&nbsp;&nbsp;&nbsp;My go-to tools are: VS Code, MySQL Workbench, and Postman.</li>
 </ul>  
 <h4>Fun facts:</h4>
 <ul>
