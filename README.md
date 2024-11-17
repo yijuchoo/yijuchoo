@@ -1,5 +1,10 @@
 # 💫 About Me:
-🎨->🧑🏻‍💻 I'm a UI/UX Designer transitioning into a developer role.<br>🎓 I've recently completed a Fullstack Java Developer course.<br>🥷 My skillsets are: HTML, CSS, JavaScript, ReactJs, MySQL, Java, and Spring Boot.<br>🪛 My go-to tools are: VS Code, MySQL Workbench, and Postman.<br><br>Fun facts: <br>🍜☕  Food enthusiast and coffee drinker (with a side of tea sometimes)<br>❤️       Manga lover with a curiosity for astrology and the diversity of personalities<br>👻       Enjoys watching paranormal documentaries and diving into paranormal stories
+🧑🏻‍💻 &nbsp;&nbsp;Full Stack Developer with a background in UI/UX Design 🎨 and a certification in Full Stack Java Development from NTUC LearningHub. Currently advancing my expertise through an intensive Java Full Stack Developer course 🎓, with a focus on modern web technologies and practical project work. Passionate about combining design creativity with technical expertise to build innovative, user-centric web applications. Eager to contribute to dynamic development teams and deliver impactful solutions while continuing my professional growth.<br>
+🥷 &nbsp;&nbsp;My skillsets are: HTML, CSS, JavaScript, ReactJs, MySQL, Java, and Spring Boot.<br>
+🪛 &nbsp;&nbsp;My go-to tools are: VS Code, MySQL Workbench, and Postman.<br><br>Fun facts: <br>
+🍜☕ Food enthusiast and coffee drinker (with a side of tea sometimes)<br>
+❤️ &nbsp;&nbsp;Manga lover with a curiosity for astrology and the diversity of personalities<br>
+👻 &nbsp;&nbsp;Enjoys watching paranormal documentaries and diving into paranormal stories
 
 
 ## 🌐 Socials:
