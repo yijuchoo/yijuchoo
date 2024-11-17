@@ -1,10 +1,11 @@
 # 💫 About Me:
-<span>🧑🏻‍💻 <ul><li>Full Stack Developer with a background in UI/UX Design 🎨 and a certification in Full Stack Java Development from NTUC LearningHub. Currently advancing my expertise through an intensive Java Full Stack Developer course 🎓, with a focus on modern web technologies and practical project work. Passionate about combining design creativity with technical expertise to build innovative, user-centric web applications. Eager to contribute to dynamic development teams and deliver impactful solutions while continuing my professional growth.</li></ul></span>
-🥷 &nbsp;&nbsp;My skillsets are: HTML, CSS, JavaScript, ReactJs, MySQL, Java, and Spring Boot.<br>
-🪛 &nbsp;&nbsp;My go-to tools are: VS Code, MySQL Workbench, and Postman.<br><br>Fun facts: <br>
-🍜☕ Food enthusiast and coffee drinker (with a side of tea sometimes)<br>
-❤️ &nbsp;&nbsp;&nbsp;&nbsp;Manga lover with a curiosity for astrology and the diversity of personalities<br>
-👻 &nbsp;&nbsp;&nbsp;&nbsp;Enjoys watching paranormal documentaries and diving into paranormal stories
+<ul><li>🧑🏻‍💻Full Stack Developer with a background in UI/UX Design 🎨 and a certification in Full Stack Java Development from NTUC LearningHub. Currently advancing my expertise through an intensive Java Full Stack Developer course 🎓, with a focus on modern web technologies and practical project work. Passionate about combining design creativity with technical expertise to build innovative, user-centric web applications. Eager to contribute to dynamic development teams and deliver impactful solutions while continuing my professional growth.</li>
+<li>🥷 &nbsp;&nbsp;My skillsets are: HTML, CSS, JavaScript, ReactJs, MySQL, Java, and Spring Boot.</li>
+<li>🪛 &nbsp;&nbsp;My go-to tools are: VS Code, MySQL Workbench, and Postman.<br><br>Fun facts: </li>
+<li>🍜☕ Food enthusiast and coffee drinker (with a side of tea sometimes)</li>
+<li>❤️ &nbsp;&nbsp;&nbsp;&nbsp;Manga lover with a curiosity for astrology and the diversity of personalities</li>
+<li>👻 &nbsp;&nbsp;&nbsp;&nbsp;Enjoys watching paranormal documentaries and diving into paranormal stories</li>
+</ul>
 
 
 ## 🌐 Socials:
