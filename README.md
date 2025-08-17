@@ -1,6 +1,6 @@
 # 💫 About Me:
 <ul>
-  <li>🧑🏻‍💻 &nbsp;&nbsp;&nbsp;&nbsp;Full Stack Developer with a background in UI/UX Design 🎨 and a certification in Full Stack Java Development from NTUC LearningHub.</li>
+  <li>🧑🏻‍💻 &nbsp;&nbsp;&nbsp;&nbsp;Full Stack Developer with a background in UI/UX Design 🎨 and a certification in Full Stack Java Development from NTUC LearningHub and Aimerz.ai.</li>
   <li>🎓 &nbsp;&nbsp;&nbsp;&nbsp;Currently advancing my expertise through an intensive Java Full Stack Developer course, with a focus on modern web technologies and practical project work.</li>
   <li>Passionate about combining design creativity with technical expertise to build innovative, user-centric web applications.</li>
   <li>Eager to contribute to dynamic development teams and deliver impactful solutions while continuing my professional growth.</li>
